@@ -1,10 +1,13 @@
 # Flutter Accident Reporting App
-A Flutter Accident reporting App working in both iOS and Android.
-For view the result of the App please visit
+
+A Flutter Accident reporting App working in both iOS and Android.This project total size of all Dart files is 4714 bites. The packages used in this project all are dynamic and have have broad applicability.
+Specially the human_anatomy package is super unique, developer can use that package for medical relative app.
+For view the app submit result please visit
 http://www.sheikhsoft.com/accident-reporting/index.php
 
 # Contribution
 Developed By Sk SHAMIMUL ISLAM (http://www.sheikhsoft.com)
+
 Concept Design by Johnyvino (http://johnyvino.com)
 
 ## Demo
