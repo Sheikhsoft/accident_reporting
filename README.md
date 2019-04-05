@@ -1,11 +1,11 @@
 # Flutter Accident Reporting App
 A Flutter Accident reporting App working in both iOS and Android.
 For view the result of the App please visit
-(http://www.sheikhsoft.com/accident-reporting/index.php)
+http://www.sheikhsoft.com/accident-reporting/index.php
 
 # Contribution
-Developed By Sk SHAMIMUL ISLAM ((http://www.sheikhsoft.com))
-Concept Design by Johnyvino ((http://johnyvino.com))
+Developed By Sk SHAMIMUL ISLAM (http://www.sheikhsoft.com)
+Concept Design by Johnyvino (http://johnyvino.com)
 
 ## Demo
 
@@ -16,7 +16,7 @@ Concept Design by Johnyvino ((http://johnyvino.com))
 
 ## Video Demo
 
-(https://www.youtube.com/watch?v=q0FlApQriS4&feature=youtu.be)
+https://www.youtube.com/watch?v=q0FlApQriS4&feature=youtu.be
 
 ## Installation
 
@@ -24,7 +24,7 @@ Run  `flutter run` in your terminal.
 
 For view the result of the App please visit
 
-(http://www.sheikhsoft.com/accident-reporting/index.php)
+http://www.sheikhsoft.com/accident-reporting/index.php
 
 ### Goals for this sample
 
@@ -40,7 +40,7 @@ my goal in to give developer some tools so that they can defend crime on level b
 
 and the flowing article also encourage me to develop the app and open source it.
 
-(https://medium.muz.li/save-our-souls-93d822ddbdd)
+https://medium.muz.li/save-our-souls-93d822ddbdd
 
 ### The important bits
 
@@ -60,7 +60,7 @@ In that case you have to flow this step.
 
 - add project 'pubspec.yaml' assets: section to your project 'pubspec.yaml'
 
-- convert your android to AndroidX [LinkViz](https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility)
+- [convert your android to AndroidX] (https://flutter.dev/docs/development/packages-and-plugins/androidx-compatibility)
 
 -  Then, Add the packages to your project 'pubspec.yaml'
 
