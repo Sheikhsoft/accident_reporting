@@ -12,10 +12,7 @@ Concept Design by Johnyvino (http://johnyvino.com)
 
 ## Demo
 
-|<img src="http://sheikhsoft.com/screensort/fullapp/ar_1.gif" width="340" height="640" title="Screen Shoot">|<img src="http://sheikhsoft.com/screensort/fullapp/ar_2.gif" width="340" height="640" title="Screen Shoot">|
-|<img src="http://sheikhsoft.com/screensort/fullapp/ar_3.gif" width="340" height="640" title="Screen Shoot">|<img src="http://sheikhsoft.com/screensort/fullapp/ar_4.gif" width="340" height="640" title="Screen Shoot">|
-|<img src="http://sheikhsoft.com/screensort/fullapp/ar_5.gif" width="340" height="640" title="Screen Shoot">|<img src="http://sheikhsoft.com/screensort/fullapp/ar_6.gif" width="340" height="640" title="Screen Shoot">|
-|<img src="http://sheikhsoft.com/screensort/fullapp/ar_7.gif" width="340" height="640" title="Screen Shoot">|
+<img src="http://sheikhsoft.com/screensort/fullapp/ar_1.gif" width="340" height="640" title="Home Screen"><img src="http://sheikhsoft.com/screensort/fullapp/ar_2.gif" width="340" height="640" title="Severty"><img src="http://sheikhsoft.com/screensort/fullapp/ar_3.gif" width="340" height="640" title="Insenent Type"><img src="http://sheikhsoft.com/screensort/fullapp/ar_4.gif" width="340" height="640" title="Human Body Part Select"><img src="http://sheikhsoft.com/screensort/fullapp/ar_5.gif" width="340" height="640" title="Time And Date Select"><img src="http://sheikhsoft.com/screensort/fullapp/ar_6.gif" width="340" height="640" title="Location And image Select"><img src="http://sheikhsoft.com/screensort/fullapp/ar_7.gif" width="340" height="640" title="Data Review And Send">
 
 ## Video Demo
 
